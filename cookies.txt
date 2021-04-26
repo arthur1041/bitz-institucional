@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.blitz.com.br	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1619411512|DJWdfDZI51gr
+.elfsight.com	TRUE	/	FALSE	1999999999	__cfduid	d0c8b7f37f124ec791cf538d49054ea861619411515
+wix.elfsight.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.blitz.com.br	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=some1"
+www.blitz.com.br	TRUE	/	FALSE	1999999999	hs	-2143766732
+www.blitz.com.br	TRUE	/	FALSE	1999999999	svSession	10e5deb0dda9f5af79492a5590d89aa808ef6c962c7ea38a8200d47b9a5e5da5b19ab13f2abbe241526427736f3e3aa21e60994d53964e647acf431e4f798bcd823e3170384ae23e45af3e30550e7c99446754f0ad1f5aa8d5f65194e4b4ea47
+www.blitz.com.br	TRUE	/	FALSE	1999999999	SameSite	None
+
